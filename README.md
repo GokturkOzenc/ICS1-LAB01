@@ -5,8 +5,8 @@ Introduction to Computer Science (YMT113) · Fall 2026 · Fırat University
 ## Student
 
 <!-- Fill in both lines, then commit. This is how your work is matched to you. -->
-- Name:
-- Student ID:
+- Name:Göktürk Özenç
+- Student ID:250543001
 
 ## Files
 
