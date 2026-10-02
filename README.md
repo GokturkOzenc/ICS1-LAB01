@@ -31,8 +31,8 @@ Meow:https://scratch.mit.edu/projects/1386751493/editor
 
 ## Part B · Your own project
 
-Project:https://scratch.mit.edu/projects/1387389519/
+Project:https://scratch.mit.edu/projects/1387389519/editor
 
 One or two sentences on what it does and which custom block, variable, loop, condition and event it uses:
 
-This game uses the Eat banana custom block, Time and Score variables, forever loops, and if conditions to manage gameplay triggered by when space key pressed events.
+This interactive game utilizes the Eat banana custom block, Time and Score variables, forever loops, and conditional statements to manage gameplay triggered by when space key pressed events.
