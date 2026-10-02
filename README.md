@@ -27,11 +27,11 @@ git add -A && git commit -m "Lab 1" && git push    # submit (your last push befo
 
 ## Part A · Warm-up: meow, with a custom block
 
-Meow:https://scratch.mit.edu/projects/1386751493/editor
+Meow: https://scratch.mit.edu/projects/1386751493/editor
 
 ## Part B · Your own project
 
-Project:https://scratch.mit.edu/projects/1387389519/editor
+Project: https://scratch.mit.edu/projects/1387389519/editor
 
 One or two sentences on what it does and which custom block, variable, loop, condition and event it uses:
 
